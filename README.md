@@ -21,6 +21,7 @@ The Farm Bot Remote Control PCB is a custom-designed printed circuit board inten
 
 - `FarmBot.brd`: Contains the EAGLE design files for the PCB.
 - `FarmBot.sch`: Includes the circuit schematics for the PCB.
+- `05 schematic.png`: Image of the circuit schematic for quick reference.
 
 ## Getting Started
 
@@ -33,6 +34,10 @@ The Farm Bot Remote Control PCB is a custom-designed printed circuit board inten
 
 1. **PCB Design**: Open the EAGLE design files to view and modify the PCB layout and schematics.
 2. **Housing Design**: Open the LaserCAD files to view and modify the remote's housing box design.
+
+## Schematic
+
+![Schematic](https://github.com/rituraj-abes/Farm-Bot/blob/db87af8eddce7d35ee8a59a6b9ae81f0d9ad28aa/05%20schematic.png)
 
 ## Usage
 
